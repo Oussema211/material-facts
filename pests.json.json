@@ -1,0 +1,5 @@
+[
+  {"pest": "aphids", "materials": ["neem oil", "insecticide"]},
+  {"pest": "caterpillars", "materials": ["bacillus thuringiensis", "pyrethrin"]},
+  {"pest": "whiteflies", "materials": ["soap spray", "yellow sticky traps"]}
+]
